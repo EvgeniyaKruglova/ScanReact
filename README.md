@@ -10,7 +10,7 @@
 2. Клонируйте проект.
 
 ```bash
-git clone https://github.com/EmoSerge/Scan-project.git
+git clone https://github.com/EmoSerge/Scan-project.git](https://github.com/EvgeniyaKruglova/ScanReact.git
 ```
 
 3. Установите зависимости
@@ -18,6 +18,4 @@ git clone https://github.com/EmoSerge/Scan-project.git
 ```bash
 npm install 
 ```
-4. Приложение доступно по адресу
 
-http://localhost:3000
